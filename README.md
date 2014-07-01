@@ -1,0 +1,4 @@
+learningPhonegap
+================
+
+Learning Phonegap app
